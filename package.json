@@ -1,0 +1,22 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test nodejsapi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anjumdar32/orbittestrepo"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "anjeln Dorrism",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
